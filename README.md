@@ -18,9 +18,6 @@
 
 * 🐍 Python lover, captivated by its versatility.
 
-* 📝 Published author with one abstract in "The Essence (ISSN 2249-0132)" presented at the International Research Convention 2024: "Decoding School Dropout Rate Factors Using Machine Learning Models."
-
-
 ***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">

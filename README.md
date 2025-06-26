@@ -10,7 +10,7 @@
 </p>
 
 
-* 🔍 Cloud Computing enthusiast, skilled in Python. Currently mastering Cloud Computing while pursuing B.Tech from [DY Patil Rait, New Mumbai]([https://www.spsu.ac.in](https://dypatil.edu/schools/ramrao-adik-institute-of-technology)).
+* 🔍 Cloud Computing enthusiast, skilled in Python. Currently mastering Cloud Computing while pursuing B.Tech from [DY Patil Rait, New Mumbai](https://dypatil.edu/).
 
 * 💻 Proficient web developer with expertise in HTML5, CSS, Bootstrap, JS, ReactJS, Firebase, NodeJS, MySQL, and MongoDB. Check out my repositories for projects.
 

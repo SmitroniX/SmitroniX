@@ -78,10 +78,9 @@
 [![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-![Snake Animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
+

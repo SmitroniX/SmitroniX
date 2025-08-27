@@ -84,3 +84,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+![Snake Animation](https://github.com/Valtriaz/Valtriaz/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)

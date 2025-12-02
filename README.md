@@ -83,4 +83,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
+![Loli counter](https://count.getloli.com/get/@Nekidev?theme=gelbooru)

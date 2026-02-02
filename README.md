@@ -1,86 +1,111 @@
-<p align="center"> <h1 align="center"> Hi, I am Asmit Jogdand <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
+<!-- HEADER -->
+<h1 align="center">
+  Hi, I'm Asmit Jogdand 
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" height="40" />
+</h1>
+
+<h3 align="center">
+  Cloud Computing & Full-Stack Developer | Python Enthusiast | Tech Explorer
+</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/asmit-jogdand/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.hackerrank.com/profile/jogdandasmit"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:jogdandasmit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00E5FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+DY+Patil+RAIT,+Navi+Mumbai;Cloud+Computing+%7C+Full-Stack+Web+Developer;Python+%7C+NodeJS+%7C+ReactJS;Always+learning+new+things+🚀" 
+  />
 </p>
 
+---
 
-* 🔍 Cloud Computing enthusiast, skilled in Python. Currently mastering Cloud Computing while pursuing B.Tech from [DY Patil Rait, New Mumbai](https://dypatil.edu/).
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/asmit-jogdand/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/jogdandasmit" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:jogdandasmit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-* 💻 Proficient web developer with expertise in HTML5, CSS, Bootstrap, JS, ReactJS, Firebase, NodeJS, MySQL, and MongoDB. Check out my repositories for projects.
+---
 
-* 📚 Curated repositories on DSA using Python, documenting my learning journey.
+## 🚀 About Me
+- 🔍 Cloud Computing enthusiast with strong **Python** skills  
+- 🎓 B.Tech student at **DY Patil RAIT, Navi Mumbai**  
+- 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, Firebase, MySQL, MongoDB**  
+- 🧠 Strengthening **DSA using Python**  
+- 🐍 Python lover — clean syntax, powerful results  
 
-* 🐍 Python lover, captivated by its versatility.
+---
 
-***
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=SmitroniX&show_icons=true&theme=dark&locale=en&hide_border=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitroniX&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+## 🛠 Tech Stack
+<p align="center">
 
-<!-- ***
-**♨️ &nbsp;DSA Analytics**
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,dart&theme=dark"/>
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
-*** -->
+### 🎨 Frontend / ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,tailwind&theme=dark"/>
 
-<!-- **🛠 &nbsp;Tech Stack**
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/>
 
-- Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,postman&theme=dark"/>
 
-- Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+</p>
 
-- Databases:  &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+---
 
-- IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SmitroniX&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitroniX&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-*** -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SmitroniX&theme=tokyonight&hide_border=true"/>
+</p>
 
-<!-- -  🔭 I’m currently building backend in Java.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmitroniX&theme=tokyo-night&hide_border=true"/>
+</p>
 
--  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+---
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SmitroniX&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
--  😄 Pronouns: He/His
+---
 
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂 -->
+## 📦 3D Contribution Graph
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/examples/monokai.svg" 
+    width="720"
+  />
+</p>
 
-<!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
+---
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
+## 👁️ Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SmitroniX&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge"/>
+</p>
+
+---
+
+## ❤️ Support
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+⭐ **Show some love by starring repositories**  
+Thanks for stopping by — happy coding! 💙🚀
 
 </div>
-<!--[Loli counter](https://count.getloli.com/get/@Nekidev?theme=gelbooru)

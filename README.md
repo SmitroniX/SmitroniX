@@ -1,69 +1,29 @@
-<!-- ========================================================= -->
-<!--                  🚀 SMITRONIX PROFILE                      -->
-<!-- ========================================================= -->
+<!-- ============================================================= -->
+<!--                     🚀 SMITRONIX PROFILE                       -->
+<!-- ============================================================= -->
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF6B00,50:FF8A00,100:F97316&text=ASMIT%20JOGDAND&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=SmitroniX%20•%20Cloud%20Computing%20•%20Full%20Stack%20Developer&descAlignY=70"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:FF6B00,50:FF8A00,100:F97316&text=ASMIT%20JOGDAND&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=SmitroniX%20•%20Full%20Stack%20Developer%20•%20Cloud%20Computing&descSize=18&descAlignY=70"/>
 </p>
 
-<h1 align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=$+whoami;Full+Stack+Developer;Cloud+Computing+Enthusiast;Open+Source+Contributor;Building+Awesome+Projects+🚀;Always+Learning+Something+New"/>
+</p>
 
-Hi 👋 I'm Asmit Jogdand
-
-</h1>
+<h1 align="center">Hi 👋 I'm Asmit Jogdand</h1>
 
 <h3 align="center">
-
-🚀 Full Stack Developer • Cloud Enthusiast • Python Lover
-
+Full Stack Developer • Cloud Enthusiast • Tech Explorer
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&duration=2800&center=true&vCenter=true&width=900&color=FF6B00&lines=$+whoami;Asmit+Jogdand;Building+awesome+software...;React+%7C+Node.js+%7C+Python+%7C+AWS;Currently+building+something+secret+👀;Welcome+to+my+GitHub."/>
-
-</p>
-
----
-
-# `whoami`
-
-```bash
-> whoami
-
-Name        : Asmit Jogdand
-
-Username    : SmitroniX
-
-Location    : Mumbai, Maharashtra 🇮🇳
-
-Education   : B.Tech Computer Engineering
-
-College     : Ramrao Adik Institute of Technology
-
-Current     : Web Development Intern
-
-Focus       : Full Stack Development
-              Cloud Computing
-              Backend Engineering
-
-Status      : Building something exciting 🚀
-```
-
----
-
-# `socials`
-
-<p align="center">
-
 <a href="https://SmitroniX.dev">
-<img src="https://img.shields.io/badge/🌐_Portfolio-SmitroniX.dev-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-SmitroniX.dev-FF6B00?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/SmitroniX">
-<img src="https://img.shields.io/badge/GitHub-SmitroniX-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-SmitroniX-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/asmit-jogdand">
@@ -71,7 +31,7 @@ Status      : Building something exciting 🚀
 </a>
 
 <a href="mailto:jogdandasmit@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/asmit.jogdand_pvt">
@@ -80,11 +40,69 @@ Status      : Building something exciting 🚀
 
 </p>
 
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=SmitroniX&style=for-the-badge&color=FF6B00)
+
+![](https://img.shields.io/github/followers/SmitroniX?style=for-the-badge&color=FF6B00)
+
+![](https://img.shields.io/github/stars/SmitroniX?style=for-the-badge&color=FF6B00)
+
+</p>
+
 ---
 
-# `profile`
+# `whoami`
 
-<p align="center">
+```bash
+$ whoami
+
+👤 Name      : Asmit Jogdand
+💻 Username  : SmitroniX
+📍 Location  : Mumbai, Maharashtra, India
+💼 Role      : Full Stack Developer
+🚀 Current   : Web Development Intern
+🌩 Focus     : Cloud Computing
+🖥 Stack     : React • Node • Python • Firebase
+🎯 Open To   : SDE • Full Stack • Backend • Cloud
+```
+
+---
+
+# `about_me`
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👋 Hello!
+
+I'm **Asmit Jogdand**, a passionate **Full Stack Developer** who enjoys creating modern web applications, exploring cloud technologies, and building software that solves real-world problems.
+
+I currently work as a **Web Development Intern** while continuously improving my backend development, system design, and cloud computing skills.
+
+### 🎯 Current Mission
+
+- 🚀 Building production-ready applications
+- 🌩 Learning Cloud Architecture
+- 📚 Mastering DSA
+- 🌍 Contributing to Open Source
+- 💡 Exploring AI-powered applications
+
+---
+
+# `quick_info`
+
+| 🚀 | Details |
+|------|---------|
+| 👨 Name | Asmit Jogdand |
+| 💼 Role | Full Stack Developer |
+| 📍 Location | Mumbai, India |
+| 🌐 Portfolio | https://SmitroniX.dev |
+| 📧 Email | jogdandasmit@gmail.com |
+| 💻 GitHub | github.com/SmitroniX |
+| 🚀 Current | Web Development Intern |
+| 🔥 Building | Secret Project |
+| 💬 Open To | Software Engineering • Full Stack • Backend • Cloud |
+
 
 ![](https://komarev.com/ghpvc/?username=SmitroniX&label=Visitors&style=for-the-badge&color=FF6B00)
 

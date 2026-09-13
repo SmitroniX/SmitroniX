@@ -3,612 +3,134 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:FF6B00,50:FF8A00,100:F97316&text=ASMIT%20JOGDAND&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=SmitroniX%20•%20Full%20Stack%20Developer%20•%20Cloud%20Computing&descSize=18&descAlignY=70"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:FF6B00,50:FF8A00,100:F97316&text=ASMIT%20JOGDAND&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Computing&descSize=18&descAlignY=70"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=900&lines=$+whoami;Full+Stack+Developer;Cloud+Computing+Enthusiast;Open+Source+Contributor;Building+Awesome+Projects+🚀;Always+Learning+Something+New"/>
-</p>
-
-<h1 align="center">Hi 👋 I'm Asmit Jogdand</h1>
-
-<h3 align="center">
-Full Stack Developer • Cloud Enthusiast • Tech Explorer
-</h3>
-
-<p align="center">
-
-<a href="https://SmitroniX.dev">
-<img src="https://img.shields.io/badge/🌐 Portfolio-SmitroniX.dev-FF6B00?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/SmitroniX">
-<img src="https://img.shields.io/badge/GitHub-SmitroniX-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/asmit-jogdand">
-<img src="https://img.shields.io/badge/LinkedIn-Asmit_Jogdand-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:jogdandasmit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.instagram.com/asmit.jogdand_pvt">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF6B00&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+modern+web+apps+and+cloud+solutions;Cloud+Computing+Student+%40+DY+Patil+RAIT;Always+exploring+and+building+something+new+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
+  <a href="https://smitronix.dev"><img src="https://img.shields.io/badge/Portfolio-smitronix.dev-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/asmit-jogdand"><img src="https://img.shields.io/badge/LinkedIn-Asmit_Jogdand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/SmitroniX/"><img src="https://img.shields.io/badge/LeetCode-SmitroniX-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/jogdandasmit"><img src="https://img.shields.io/badge/HackerRank-jogdandasmit-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="mailto:jogdandasmit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=SmitroniX&style=for-the-badge&color=FF6B00)
-
-![](https://img.shields.io/github/followers/SmitroniX?style=for-the-badge&color=FF6B00)
-
-![](https://img.shields.io/github/stars/SmitroniX?style=for-the-badge&color=FF6B00)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SmitroniX&label=Profile+Views&style=flat-square&color=FF6B00" />
+  <img src="https://img.shields.io/github/followers/SmitroniX?style=flat-square&color=FF6B00" />
+  <img src="https://img.shields.io/github/stars/SmitroniX?style=flat-square&color=FF6B00" />
 </p>
 
 ---
 
-# `whoami`
+## 👨‍💻 About Me
 
 ```bash
-$ whoami
-
-👤 Name      : Asmit Jogdand
-💻 Username  : SmitroniX
-📍 Location  : Mumbai, Maharashtra, India
-💼 Role      : Full Stack Developer
-🚀 Current   : Web Development Intern
-🌩 Focus     : Cloud Computing
-🖥 Stack     : React • Node • Python • Firebase
-🎯 Open To   : SDE • Full Stack • Backend • Cloud
+$ neofetch --smitronix
 ```
 
----
-
-# `about_me`
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 👋 Hello!
-
-I'm **Asmit Jogdand**, a passionate **Full Stack Developer** who enjoys creating modern web applications, exploring cloud technologies, and building software that solves real-world problems.
-
-I currently work as a **Web Development Intern** while continuously improving my backend development, system design, and cloud computing skills.
-
-### 🎯 Current Mission
-
-- 🚀 Building production-ready applications
-- 🌩 Learning Cloud Architecture
-- 📚 Mastering DSA
-- 🌍 Contributing to Open Source
-- 💡 Exploring AI-powered applications
+- 🎓 **Education**: B.Tech in Computer Engineering at **Ramrao Adik Institute of Technology** (2025–2029)
+- 💼 **Experience**: Web Development Intern at **Naviotech Solution** | Ex-Plugin Developer at **Hypixel Inc**
+- ☁️ **Focus**: Cloud Architecture, Distributed Systems, Full-Stack Web Development, and Developer Tooling
+- 📍 **Location**: Mumbai, Maharashtra, India
+- ⚡ **Background**: Started with custom Minecraft server plugins and Discord bots; now building modern web platforms, cloud automation tools, and mastering DSA
 
 ---
 
-# `quick_info`
-
-| 🚀 | Details |
-|------|---------|
-| 👨 Name | Asmit Jogdand |
-| 💼 Role | Full Stack Developer |
-| 📍 Location | Mumbai, India |
-| 🌐 Portfolio | https://SmitroniX.dev |
-| 📧 Email | jogdandasmit@gmail.com |
-| 💻 GitHub | github.com/SmitroniX |
-| 🚀 Current | Web Development Intern |
-| 🔥 Building | Secret Project |
-| 💬 Open To | Software Engineering • Full Stack • Backend • Cloud |
-
-
-![](https://komarev.com/ghpvc/?username=SmitroniX&label=Visitors&style=for-the-badge&color=FF6B00)
-
-![](https://img.shields.io/github/followers/SmitroniX?style=for-the-badge&color=FF6B00)
-
-![](https://img.shields.io/github/stars/SmitroniX?style=for-the-badge&color=FF6B00)
-
-![](https://img.shields.io/github/last-commit/SmitroniX/SmitroniX?style=for-the-badge&color=FF6B00)
-
-</p>
-
----
-
-# `about_me`
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-I'm **Asmit Jogdand**, a passionate **Full Stack Developer** and **Computer Engineering student** at **RAIT**.
-
-I enjoy transforming ideas into scalable applications using modern technologies while continuously learning about cloud computing, backend systems, and developer tooling.
-
-Outside coding, I enjoy building personal products, contributing to open-source projects, exploring emerging technologies, and solving algorithmic problems.
-
-### 🚀 Current Mission
-
-- 💻 Building impactful software
-- 🌩 Learning advanced cloud technologies
-- 📚 Improving DSA using Python
-- 🌍 Contributing to Open Source
-- 🚀 Preparing for Software Engineering roles
-
----
-
-# `quick_info`
-
-| 🏷️ | Details |
-|------|----------|
-| 👨 Name | Asmit Jogdand |
-| 🎓 Degree | B.Tech Computer Engineering |
-| 🏫 College | Ramrao Adik Institute of Technology |
-| 📍 Location | Mumbai, Maharashtra |
-| 💼 Working At | Naviotech Solution Pvt Ltd |
-| 🌐 Portfolio | https://SmitroniX.dev |
-| 💻 GitHub | SmitroniX |
-| 📧 Email | jogdandasmit@gmail.com |
-| 🎯 Open To | SDE • Full Stack • Backend • Frontend • Cloud • AI |
-| 🚧 Current Project | Secret 🤫 |
-
----
-
-# `developer_quote`
-
-> "Build things that people love using."
-
----
----
-
-# `tech_stack`
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### 💻 Languages
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,bash" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,dart"/>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
+</p>
 
----
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind"/>
-
----
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
----
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
----
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
----
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode" />
+</p>
 
 </div>
 
 ---
 
-# `specialties`
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/☁️_Cloud_Computing-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/⚛️_React.js-161B22?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🟢_Node.js-228B22?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📱_Firebase-FFCA28?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌍_Open_Source-FF6B00?style=for-the-badge"/>
-
-</p>
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🎓 DYPU Connect** | Campus social network monorepo for DY Patil University with auth, feeds, confessions & chat. | `React` `Node.js` `Firebase` `Tailwind` | [Repository ↗](https://github.com/SmitroniX/DYPU-Connect) |
+| **☁️ SmitCloud Hosting** | Automated installer for Pterodactyl Panel & Wings deployment on Ubuntu & Debian servers. | `Bash` `Linux` `DevOps` `Docker` | [Repository ↗](https://github.com/SmitroniX/SmitCloud-Hosting) |
+| **🏋️ SmiTriX** | Self-hosted personal gym, bodyweight, and progressive overload tracking platform. | `JavaScript` `Node.js` `Express` | [Repository ↗](https://github.com/SmitroniX/SmiTriX) |
+| **📚 AniDex / Anilab** | Anime & Manga discovery platform inspired by modern streaming interfaces. | `React` `Node.js` `TailwindCSS` | [Repository ↗](https://github.com/SmitroniX) |
 
 ---
 
-# `skills_dashboard`
-
-| Skill | Level |
-|--------|--------|
-| Python | ██████████ 95% |
-| JavaScript | █████████ 90% |
-| React.js | █████████ 90% |
-| Node.js | █████████ 88% |
-| MongoDB | ████████ 85% |
-| Firebase | ████████ 84% |
-| AWS | ███████ 75% |
-| Java | ████████ 82% |
-| C++ | ███████ 74% |
-
----
-
-# `expertise`
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| 🌐 Full Stack Development | ⭐⭐⭐⭐⭐ | React • Node • Express |
-| ☁️ Cloud Computing | ⭐⭐⭐⭐☆ | AWS • Firebase |
-| 🔗 REST APIs | ⭐⭐⭐⭐⭐ | Authentication • CRUD |
-| 🎨 UI Development | ⭐⭐⭐⭐☆ | Responsive Web Apps |
-| 🗄️ Database Design | ⭐⭐⭐⭐☆ | MongoDB • MySQL |
-| 🐍 Python | ⭐⭐⭐⭐⭐ | DSA • Automation |
-
----
-
-# `experience`
+## 💼 Experience & Education
 
 ```text
-2026 ─────────────────────────────────────────────── Present
+2026 — Present   Web Development Intern · Naviotech Solution Pvt Ltd
+                 • Building modern web applications with React.js & Node.js
+                 • Engineering scalable RESTful APIs & state management
 
-🟧 Web Development Intern
-Naviotech Solution Pvt Ltd
+2025             Freelance Software Engineer
+                 • Built custom Discord automation bots & backend services
+                 • Delivered client software & custom web integrations
 
-├── Building modern web applications
-├── React.js development
-├── Node.js backend
-├── REST APIs
-└── Full Stack Engineering
+2024             Plugin Developer (Part-Time) · Hypixel Inc
+                 • Custom Java server plugin development & optimization
+                 • Server performance enhancements & feature development
 
-────────────────────────────────────────────────────────────
+2023             AI & Software Testing Intern
+                 • Application QA, bug hunting, and automated verification
 
-🟧 Marketing & Operations Team
-Social Wing RAIT
-
-├── Event Management
-├── Social Campaigns
-├── Community Building
-└── Team Coordination
-
-────────────────────────────────────────────────────────────
-
-2025
-
-🟧 Freelance Software Engineer
-
-├── Discord Bots
-├── Automation
-├── Backend Systems
-└── Custom Solutions
-
-────────────────────────────────────────────────────────────
-
-2024
-
-🟧 Plugin Developer
-Hypixel Inc (Part-Time)
-
-├── Minecraft Plugins
-├── Server Optimization
-├── Performance Improvements
-└── Feature Development
-
-────────────────────────────────────────────────────────────
-
-2023
-
-🟧 AI & Software Testing Intern
-
-├── AI Testing
-├── Quality Assurance
-├── Bug Reporting
-└── Application Testing
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 Education:    B.Tech in Computer Engineering · Ramrao Adik Institute of Technology (2025–2029)
+                 ICSE Board · 85.7%
+📜 Certs:        Deloitte Australia (Data Analytics) · Complete Web Development Bootcamp
 ```
 
 ---
 
-# `education`
-
-```text
-🎓 Bachelor of Technology
-
-Computer Engineering
-
-Ramrao Adik Institute of Technology
-
-2025 — 2029
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🏫 ICSE
-
-General Studies
-
-Score : 85.7%
-```
-
----
-
-# `certifications`
-
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| Data Analytics Job Simulation | Deloitte Australia | 2026 |
-| The Complete Web Development Bootcamp | Udemy | 2024 |
-
----
-
-# `currently_learning`
-
-```yaml
-learning:
-  - Advanced Backend Development
-  - AWS Cloud Services
-  - System Design
-  - Data Structures & Algorithms
-  - DevOps
-  - Open Source
-
-building:
-  - 🚧 Secret Project
-
-exploring:
-  - AI Integrations
-  - Modern Web Technologies
-  - Cloud Native Applications
-
-open_to:
-  - Software Engineer
-  - Full Stack Developer
-  - Backend Developer
-  - Frontend Developer
-  - Cloud Engineer
-  - DevOps
-  - AI/ML
-  - Internships
-  - Freelance
-```
-
----
----
-
-# `featured_projects`
-
-<details open>
-<summary><b>🎓 DYPU Connect — Campus Social Platform</b></summary>
-
-### 🌟 Overview
-
-A modern social platform built exclusively for DY Patil University students.
-
-### 🚀 Features
-
-- Secure Student Authentication
-- Anonymous Confessions
-- Clubs & Communities
-- Event Management
-- Real-Time Chat
-- Student Marketplace
-- Lost & Found
-- Campus Feed
-- Notifications
-
-### 🛠️ Tech Stack
-
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-
-![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-
-![](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss)
-
-### 📊 Project
-
-| Category | Details |
-|-----------|----------|
-| Status | 🚀 Active Development |
-| Platform | Web |
-| Type | Campus Social Network |
-| Role | Founder & Full Stack Developer |
-
-</details>
-
----
-
-<details>
-
-<summary><b>📚 AniDex Reader</b></summary>
-
-A modern Manga & Anime reader inspired by premium streaming platforms.
-
-### Features
-
-- Manga Reader
-- Anime Discovery
-- Beautiful UI
-- Bookmarking
-- Responsive Design
-- Search
-
-### Stack
-
-React
-
-Node.js
-
-Firebase
-
-TailwindCSS
-
-</details>
-
----
-
-<details>
-
-<summary><b>🤫 Secret Project</b></summary>
-
-```yaml
-status: Under Development
-
-visibility: Private
-
-launch: Coming Soon
-
-description: >
-  Something big is coming...
-```
-
-</details>
-
----
-
-# `github_analytics`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmitroniX&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF&icon_color=FF6B00"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SmitroniX&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitroniX&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# `github_trophies`
+## 📈 GitHub Analytics & Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=SmitroniX&theme=dark&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&dates=8B949E&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmitroniX&theme=github_dark" alt="GitHub Profile Details" width="49%"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SmitroniX&theme=onestar&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SmitroniX&theme=github_dark" alt="Top Languages" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SmitroniX&theme=github_dark" alt="Stats Card" width="49%"/>
 </p>
 
 ---
 
-# `activity_graph`
+## 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmitroniX&bg_color=0D1117&color=FFFFFF&line=FF6B00&point=FF8A00&area=true&hide_border=true"/>
-
-</p>
-
----
-
-# `contribution_snake`
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SmitroniX/SmitroniX/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# `coding_profiles`
-
-<p align="center">
-
-<a href="https://leetcode.com/u/SmitroniX/">
-
-<img src="https://img.shields.io/badge/LeetCode-SmitroniX-FFA116?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/jogdandasmit">
-
-<img src="https://img.shields.io/badge/HackerRank-jogdandasmit-00EA64?style=for-the-badge&logo=hackerrank"/>
-
-</a>
-
-<a href="https://github.com/SmitroniX">
-
-<img src="https://img.shields.io/badge/GitHub-SmitroniX-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-# `developer_goals`
-
-```yaml
-2026:
-  ✅ Master Full Stack Development
-  ✅ Build Production SaaS Products
-  ✅ Contribute to Open Source
-  ✅ Strengthen DSA
-  🚀 Launch Secret Project
-  ☁️ Master AWS
-```
-
----
-
-# `fun_facts`
-
-```text
-⚡ Python is my favorite language.
-
-🌩 Cloud Computing fascinates me.
-
-🚀 I enjoy building products from scratch.
-
-🎮 Gaming inspires many of my side projects.
-
-☕ Debugging is easier with coffee.
-```
-
----
-
-# `connect`
-
-<p align="center">
-
-<a href="https://SmitroniX.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF6B00?style=for-the-badge"/>
-</a>
-
-<a href="mailto:jogdandasmit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/asmit-jogdand">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://www.instagram.com/asmit.jogdand_pvt">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/SmitroniX/SmitroniX/output/github-contribution-grid-snake-dark.svg" alt="Asmit's Contribution Snake" width="98%"/>
 </p>
 
 ---
 
 <p align="center">
-
-> "Code with purpose. Learn without limits. Build what matters."
-
+  <i>"Code with purpose. Learn without limits. Build what matters."</i>
 </p>
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:FF8A00&height=120&section=footer"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:FF8A00&height=90&section=footer"/>
 </p>

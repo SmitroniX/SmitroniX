@@ -72,10 +72,12 @@ $ neofetch --smitronix
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **🍎 NovaPlex** | Apple Liquid Glass Media Server & Cinema PWA Client with 4K UHD transcoding & real-time tonemapping. | `React` `TypeScript` `PWA` `Node.js` | [Repository ↗](https://github.com/SmitroniX/NovaPlex) |
 | **🎓 DYPU Connect** | Campus social network monorepo for DY Patil University with auth, feeds, confessions & chat. | `React` `Node.js` `Firebase` `Tailwind` | [Repository ↗](https://github.com/SmitroniX/DYPU-Connect) |
+| **⚡ Shadow Launcher** | High-performance Minecraft Java Edition launcher for Android with Vulkan 1.3 acceleration. | `Android` `PojavCore` `Vulkan` `Java` | [Repository ↗](https://github.com/SmitroniX/ShadowLauncher) |
 | **☁️ SmitCloud Hosting** | Automated installer for Pterodactyl Panel & Wings deployment on Ubuntu & Debian servers. | `Bash` `Linux` `DevOps` `Docker` | [Repository ↗](https://github.com/SmitroniX/SmitCloud-Hosting) |
 | **🏋️ SmiTriX** | Self-hosted personal gym, bodyweight, and progressive overload tracking platform. | `JavaScript` `Node.js` `Express` | [Repository ↗](https://github.com/SmitroniX/SmiTriX) |
-| **📚 AniDex / Anilab** | Anime & Manga discovery platform inspired by modern streaming interfaces. | `React` `Node.js` `TailwindCSS` | [Repository ↗](https://github.com/SmitroniX) |
+| **👻 Ghost CLI** | Unified credential vault and orchestrator for AI models (Gemini, Claude, Codex) and dev tools. | `CLI` `Node.js` `Security` `Terminal` | [Repository ↗](https://github.com/SmitroniX/GhostCLI) |
 
 ---
 
